@@ -1,2 +1,15 @@
-[{"title":"Test","message":"BWAHAHAHA","image":"https://raw.githubusercontent.com/khiancarasicas/khiancarasicas/main/media/banner.jpg"},
-  {"title":"next","message":"huh","image":""}]
+[
+  
+  {
+    "title":"Test",
+    "message":"BWAHAHAHA",
+    "image":"https://raw.githubusercontent.com/khiancarasicas/khiancarasicas/main/media/banner.jpg"
+  },
+  
+  {
+    "title":"next",
+    "message":"huh",
+    "image":""
+  }
+  
+]
